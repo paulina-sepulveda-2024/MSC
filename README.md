@@ -23,4 +23,5 @@ Prueba desde muy lejos!!!
 Tarea:
 - Crear repositorio personal - privado: (Compartirlo con mi usuario)
 - Subir una imagen en una carpeta, y hacer el link a la imagen (incrustar la imagen)
+- Descargar 'Github Desktop en el computador'
 
