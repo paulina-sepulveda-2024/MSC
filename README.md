@@ -19,3 +19,8 @@ Codigos del Magister
 `` python3 import ``
 
 Prueba desde muy lejos!!!
+
+Tarea:
+- Crear repositorio personal - privado: (Compartirlo con mi usuario)
+- Subir una imagen en una carpeta, y hacer el link a la imagen (incrustar la imagen)
+
