@@ -1,6 +1,6 @@
 # MSC
 
-## Crear un subseccion (Hola)
+## Crear un subseccion (Hola) 
 
 Codigos del Magister 
 
